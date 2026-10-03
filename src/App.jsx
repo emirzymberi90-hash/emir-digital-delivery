@@ -72,5 +72,4 @@ const missions = [
     number: "04",
     title: "Next Chapter",
     eyebrow: "DIRECTOR-LEVEL VISION",
-    description:
-      "Leading digital delivery, BIM, and VDC strategy at enterprise scale while building teams and systems that improve construction delivery.
+    description:"Leading digital delivery, BIM, and VDC strategy at enterprise scale while building teams and systems that improve construction delivery.
